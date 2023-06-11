@@ -1,12 +1,7 @@
 ### Heyho, I'm Finn 👋
 
-<p>
-  <em>
-    Computer science student at the  <a href="https://www.heidenheim.dhbw.de/en">Cooperative State University Baden-Württemberg</a><br/>
-    <img src="./dhbw.svg"/><br/>
-    Working as a Fullstack Developer as part of my dual / cooperative study.
-  </em>
-</p>
+
+
 
 #### :mag: Some stats:
 
