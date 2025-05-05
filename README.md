@@ -1,1 +1,1 @@
-### Heyho, I'm Finn 👋
+### Hey 👋
